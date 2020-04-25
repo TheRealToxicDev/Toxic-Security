@@ -1,3 +1,14 @@
+## Table of Contents
+- [About](#about)
+- [Bot Permissions](#perms)
+- [Default Prefix](#prefix)
+- [Change Prefix](#newPrefix)
+- [Command List](#commands)
+- [Default Limits](#defLimits)
+- [Screenshots](#examples)
+- [Support](https://discord.gg/MbjZ7xc)
+
+<a name="about"></a>
 # Toxic-Security
 > Discords best Anti-Nuke Bot.
 
@@ -15,16 +26,6 @@ And more.
 
 > Toxic Security sets Limits for all of the Events that can be triggered.
 If a user reaches or exceeds the limits the bot will remove **all** their roles as long as it has the needed permissions.
-
-## Table of Contents
-- [Bot Permissions](#perms)
-- [Default Prefix](#prefix)
-- [Change Prefix](#newPrefix)
-- [Command List](#commands)
-- [Default Limits](#defLimits)
-- [Screenshots](#examples)
-- [Support](https://discord.gg/MbjZ7xc)
-
 
 <a name="perms"></a>
 # Permissions
