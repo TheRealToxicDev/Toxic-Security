@@ -1,4 +1,7 @@
 # Toxic-Security
 > Discord Anti-Nuke Bot.
 
-##### Lol
+# Examples:
+
+##### Owner DM when Limits are Reached.
+![](https://i.imgur.com/gbVQrKP.png)
