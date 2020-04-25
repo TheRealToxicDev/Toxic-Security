@@ -5,7 +5,8 @@
 > ts/ `Customizable`
 
 # Change Prefix
-> ts/prefix {newPrefix} (Replace `{newPrefix}` with a prefix of your choice.
+> ts/prefix {newPrefix} 
+• Replace `{newPrefix}` with a prefix of your choice.
 
 # Examples:
 
