@@ -7,6 +7,7 @@
 - [Default Limits](#defLimits)
 - [Screenshots](#examples)
 - [Support](https://discord.gg/MbjZ7xc)
+- [Invite](https://discordapp.com/api/oauth2/authorize?client_id=650872568374493185&permissions=8&scope=bot)
 
 <a name="about"></a>
 # Toxic-Security
