@@ -7,7 +7,7 @@
 - [Command List](#commands)
 - [Default Limits](#defLimits)
 - [Screenshots](#examples)
-- [Support]()
+- [Support](https://discord.gg/MbjZ7xc)
 
 
 <a name="prefix"></a>
