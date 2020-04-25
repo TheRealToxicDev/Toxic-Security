@@ -1,6 +1,9 @@
 # Toxic-Security
 > Discord Anti-Nuke Bot.
 
+# Default Prefix
+> ts/ `Changeable`
+
 # Examples:
 
 ##### DM'S Owner when Limits are Reached.
