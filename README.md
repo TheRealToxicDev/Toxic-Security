@@ -1,14 +1,26 @@
 # Toxic-Security
-> Discord Anti-Nuke Bot.
+> Discords best Anti-Nuke Bot.
 
+## Table of Contents
+- [Default Prefix](#prefix)
+- [Change Prefix](#newPrefix)
+- [Command List](#commands)
+- [Default Limits](#defLimits)
+- [Screenshots](#examples)
+- [Support]()
+
+
+<a name="prefix"></a>
 # Default Prefix
 > ts/ `Customizable`
 
+<a name="newPrefix"></a>
 # Change Prefix
 > ts/prefix {newPrefix} 
 
 • Replace `{newPrefix}` with a prefix of your choice.
 
+<a name="commands"></a>
 # Commands List
 > ts/help - Shows the bots Help Message and a list of commands
 
@@ -20,6 +32,7 @@
 
 > ts/reset - Resets the Limits to Default.
 
+<a name="defLimits"></a>
 # Default Server Limit Settings 
 
 • If any user attempts to Nuke the Server by triggering the following events and reaches or exceeds the following limits the bot will remove **ALL** their roles. 
@@ -53,6 +66,7 @@
     }
 ```
 
+<a name="examples"></a>
 # Bot in Action.
 
 ##### DM'S Owner when Limits are Reached.
