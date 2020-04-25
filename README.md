@@ -1,7 +1,23 @@
 # Toxic-Security
 > Discords best Anti-Nuke Bot.
 
+Protect your server against Malicious Users who want to.
+
+• Ban or Mass Ban Users.
+
+• Create Roles
+
+• Delete Roles
+
+• Delete Channels
+
+And more.
+
+> Toxic Security sets Limits for all of the Events that can be triggered.
+If a user reaches or exceeds the limits the bot will remove **all** their roles as long as it has the needed permissions.
+
 ## Table of Contents
+- [Bot Permissions](#perms)
 - [Default Prefix](#prefix)
 - [Change Prefix](#newPrefix)
 - [Command List](#commands)
@@ -9,6 +25,14 @@
 - [Screenshots](#examples)
 - [Support](https://discord.gg/MbjZ7xc)
 
+
+<a name="perms"></a>
+# Permissions
+To ensure that the bot works correctly please make sure you provide it `ADMINISTRATOR` Permissions as well as make sure it has the highest position in the Role Hierarchy
+
+![](https://i.imgur.com/UwdPzEn.jpg)
+
+![](https://i.imgur.com/pCFO3AH.jpg)
 
 <a name="prefix"></a>
 # Default Prefix
