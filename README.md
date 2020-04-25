@@ -21,6 +21,9 @@
 > ts/reset - Resets the Limits to Default.
 
 # Default Server Limit Settings 
+
+• If any user attempts to Nuke the Server by triggering the following events and reaches or exceeds the following limits the bot will remove **ALL** their roles. 
+
 ```jsx harmony
  limits: {
         user_removals: {
