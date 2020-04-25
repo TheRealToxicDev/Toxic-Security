@@ -3,5 +3,5 @@
 
 # Examples:
 
-##### Owner DM when Limits are Reached.
+##### DM'S Owner when Limits are Reached.
 ![](https://i.imgur.com/gbVQrKP.png)
