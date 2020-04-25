@@ -2,7 +2,7 @@
 > Discord Anti-Nuke Bot.
 
 # Default Prefix
-> ts/ `Changeable`
+ts/ `Changeable`
 
 # Examples:
 
