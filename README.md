@@ -21,12 +21,11 @@
 > ts/reset - Resets the Limits to Default.
 
 # Default Server Limit Settings 
-```
- USER REMOVALS:
-
- • per_minute: 8
-
- • per_hour: 24
+```jsx harmony
+ limits: {
+        user_removals: {
+            per_minute: 8,
+            per_hour: 24
         },
         role_creations: {
             per_minute: 4,
@@ -48,12 +47,7 @@
             per_minute: 8,
             per_hour: 24
         }
-    },
-    _config: 'The following are defaults.',
-    config: {
-        _null: 'No options to configure currently.'
     }
-}
 ```
 
 # Bot in Action.
