@@ -9,7 +9,18 @@
 
 • Replace `{newPrefix}` with a prefix of your choice.
 
-# Examples:
+# Commands List
+> ts/help
+
+> ts/prefix
+
+> ts/limits
+
+> ts/recent
+
+> ts/reset
+
+# Bot in Action.
 
 ##### DM'S Owner when Limits are Reached.
 ![](https://i.imgur.com/gbVQrKP.png)
