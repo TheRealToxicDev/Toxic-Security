@@ -12,7 +12,9 @@
 
 <a name="prefix"></a>
 # Default Prefix
-> ts/ `Customizable`
+> ts/ 
+
+• `Customizable`
 
 <a name="newPrefix"></a>
 # Change Prefix
