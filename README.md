@@ -1,2 +1,2 @@
 # Toxic-Security
-> Discord Server Nuke Protection Bot.
+> Discord Anti-Nuke Bot.
