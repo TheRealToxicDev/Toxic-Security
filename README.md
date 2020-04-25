@@ -10,15 +10,15 @@
 • Replace `{newPrefix}` with a prefix of your choice.
 
 # Commands List
-> ts/help
+> ts/help - Shows the bots Help Message and a list of commands
 
-> ts/prefix
+> ts/prefix - Shows the bots Current Prefix and how to change it.
 
-> ts/limits
+> ts/limits - Shows the current Server Limit settings for the bot.
 
-> ts/recent
+> ts/recent - Shows a list of Recent Events and the user who triggered them.
 
-> ts/reset
+> ts/reset - Resets the Limits to Default.
 
 # Bot in Action.
 
