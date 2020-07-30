@@ -58,7 +58,7 @@ To ensure that the bot works correctly please make sure you provide it `ADMINIST
 
 > sky.recent - Shows a list of Recent Events and the user who triggered them.
 
-> sky.resetlimits - Resets the Limits to Default.
+> sky.reset - Resets the Limits to Default.
 
 <a name="defLimits"></a>
 # Default Server Limit Settings 
