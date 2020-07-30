@@ -10,7 +10,7 @@
 - [Invite](https://discordapp.com/api/oauth2/authorize?client_id=650872568374493185&permissions=8&scope=bot)
 
 <a name="about"></a>
-# Toxic-Security
+# Skynet
 > Discords best Anti-Nuke Bot.
 
 Protect your server against Malicious Users who want to.
@@ -25,7 +25,7 @@ Protect your server against Malicious Users who want to.
 
 And more.
 
-> Toxic Security sets Limits for all of the Events that can be triggered.
+> Skynet sets Limits for all of the Events that can be triggered.
 If a user reaches or exceeds the limits the bot will remove **all** their roles as long as it has the needed permissions.
 
 <a name="perms"></a>
@@ -38,27 +38,27 @@ To ensure that the bot works correctly please make sure you provide it `ADMINIST
 
 <a name="prefix"></a>
 # Default Prefix
-> ts/ 
+> sky. 
 
 • `Customizable`
 
 <a name="newPrefix"></a>
 # Change Prefix
-> ts/prefix {newPrefix} 
+> sky.prefix {newPrefix} 
 
 • Replace `{newPrefix}` with a prefix of your choice.
 
 <a name="commands"></a>
 # Commands List
-> ts/help - Shows the bots Help Message and a list of commands
+> sky.help - Shows the bots Help Message and a list of commands
 
-> ts/prefix - Shows the bots Current Prefix and how to change it.
+> sky.prefix - Shows the bots Current Prefix and how to change it.
 
-> ts/limits - Shows the current Server Limit settings for the bot.
+> sky.limits - Shows the current Server Limit settings for the bot.
 
-> ts/recent - Shows a list of Recent Events and the user who triggered them.
+> sky.recent - Shows a list of Recent Events and the user who triggered them.
 
-> ts/reset - Resets the Limits to Default.
+> sky.resetlimits - Resets the Limits to Default.
 
 <a name="defLimits"></a>
 # Default Server Limit Settings 
